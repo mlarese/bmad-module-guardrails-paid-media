@@ -23,7 +23,6 @@ stesse figure, stesso comportamento, solo l'area paid media.
 
 | Skill | Comando | Cosa fa |
 | ----- | ------- | ------- |
-| `gpm-setup` | Installa Guardrails Paid Media | Registra Guardrails, le cinque figure, le stanze tematiche di party mode e le voci di help. Non crea la memoria condivisa. |
 | `gpm-profile` | Profila il progetto | Raccoglie in pochi minuti gli otto campi che danno contesto a tutte e cinque le figure, criticità inclusa. |
 | `gpm-profile` | Aggiorna il profilo | Riallinea il profilo quando il progetto cambia, e dice se il cambiamento invalida rischi già accettati. |
 | `gpm-board` | Convoca il collegio | Fa leggere lo stesso artefatto alle sole figure pertinenti e restituisce un riepilogo unico, conflitti compresi. |
@@ -63,13 +62,6 @@ Guardrails: installandone due, il profilo resta uno solo e si compila una volta.
 Questo modulo installa skill con **lo stesso nome** del bundle `grl` — `grl-agent-privacy`
 sta identica in entrambi. Bundle e moduli tematici non vanno installati insieme nello
 stesso progetto: si sceglie il bundle completo, oppure i moduli delle aree che servono.
-
-## Stanze di party mode
-
-gpm-setup installa le stanze del modulo in `_bmad/custom/bmad-party-mode.toml`, senza cambiare la stanza di default:
-
-- `bmad-party-mode --party grl-paid-media`
-- `bmad-party-mode --party grl-automation`
 
 ## Licenza
 
