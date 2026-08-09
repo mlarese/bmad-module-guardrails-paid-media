@@ -263,7 +263,7 @@ quella della classificazione.
 ## Figure fuori da questo modulo
 
 Le tabelle qui sopra citano anche figure Guardrails che questo modulo non installa.
-Qui sono installate: Vera (grl-agent-privacy), Aldo (grl-agent-legal), Iris (grl-agent-ui-critic), Nora (grl-agent-seo), Dalia (grl-agent-ads).
+Qui sono installate: Vera (grl-agent-privacy), Aldo (grl-agent-legal), Iris (grl-agent-ui-critic), Nora (grl-agent-seo), Dalia (grl-agent-ads), Sofia (grl-agent-social), Marco (grl-agent-creative).
 
 Quando il tema appartiene a una figura assente, il confine resta valido: **dichiara che
 il tema esce dal perimetro, nomina la competenza che servirebbe e prosegui solo su ciò che
