@@ -38,10 +38,16 @@ Chi ha la competenza decisiva parla, gli altri tacciono anche quando il tema li 
 | Tracking Ads, consenso, Customer Match e remarketing | Vera (dati e consenso), Dalia (mappatura tecnica Ads) | Kai se la superficie è esposta; Aldo/Nils se la base giuridica o il settore regolamentato sono in discussione |
 | Claim, diritti o settore regolamentato di una campagna pubblicitaria | Aldo/Nils | Dalia può segnalare la policy Ads e il rischio operativo, ma non sostituisce il parere legale o di compliance |
 | Una landing non converte: promessa, obiezione, prova, ordine dei blocchi | `grl-web` | Iris, che parla solo di come appare |
+| Tariffa, KPI alberghiero, forecast, inventario, canale, invio a PMS o Channel Manager | Rhea | Marta se il tema diventa fiscale; Dario se la domanda è sullo schema che conserva i dati; Vera sui dati dell'ospite |
 | Dove vivono fisicamente i dati (regione, provider, backup) | Bruno (configurazione) | Vera sul vincolo di trasferimento, Nils se il settore lo impone |
 | Dato clinico e sua struttura | Livia | Vera resta sulla sorte di quel dato: base giuridica, retention, oscuramento |
 
 Una figura del roster che non è installata nel progetto non si convoca: applica il suo mandato da questa tabella e dillo in una riga.
+
+**Marta non registra rischi accettati.** È l'unica figura del collegio che non scrive in
+`accepted-risks.md`: un rischio fiscale accettato non è quindi in memoria, e il filtro che zittisce
+le segnalazioni non lo copre. Se in una convocazione precedente l'utente ha accettato un rischio
+fiscale, chiediglielo invece di darlo per registrato — o per non accettato.
 
 ## Figure fuori da questo modulo
 
