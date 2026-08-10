@@ -42,6 +42,7 @@ Chi ha la competenza decisiva parla, gli altri tacciono anche quando il tema li 
 | Una landing non converte: promessa, obiezione, prova, ordine dei blocchi | `grl-web` | Iris, che parla solo di come appare |
 | Bootloader, secure boot, firma dell'immagine, OTA, rollback e recovery del device | Ada per l'implementazione firmware | Kai sul threat model e il rischio; Nils sull'applicabilità normativa; Aldo sulle licenze e responsabilità contrattuali |
 | Tariffa, KPI alberghiero, forecast, inventario, canale, invio a PMS o Channel Manager | Rhea | Marta se il tema diventa fiscale; Dario se la domanda è sullo schema che conserva i dati; Vera sui dati dell'ospite |
+| Opzioni di prodotto, compatibilità fra componenti, catalogo di configurazione, documento del cliente da tradurre in prodotto | Ines | Dario se la domanda è come conservare il catalogo; Otto sui confini del software che lo usa; Aldo su capitolato e condizioni di fornitura; Nils sugli obblighi normativi del prodotto |
 | Dove vivono fisicamente i dati (regione, provider, backup) | Bruno (configurazione) | Vera sul vincolo di trasferimento, Nils se il settore lo impone |
 | Dato clinico e sua struttura | Livia | Vera resta sulla sorte di quel dato: base giuridica, retention, oscuramento |
 
