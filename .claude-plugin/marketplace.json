@@ -7,7 +7,7 @@
       "name": "gpm",
       "source": "./src",
       "description": "Otto figure di presidio su paid media, SEO, design, privacy, legale, social content, creative video e generazione di immagini con modelli AI, più `grl-ads` per audit, piani, tracking e preflight paid, `grl-social` per il contenuto organico, `grl-social-creative` per gli asset e `grl-automation` per i passaggi ripetitivi. Dalia tiene la spesa sotto controllo: nessuna campagna o creatività si pubblica senza evidenze, approvazione e rollback.",
-      "version": "1.26.0",
+      "version": "1.27.0",
       "author": "mlarese",
       "homepage": "https://github.com/mlarese/bmad-module-guardrails-paid-media",
       "repository": "https://github.com/mlarese/bmad-module-guardrails-paid-media",
