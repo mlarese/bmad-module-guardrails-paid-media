@@ -1,12 +1,12 @@
 {
   "name": "guardrails-paid-media",
   "owner": "mlarese",
-  "description": "Guardrails Paid Media: strategia paid media, Google Ads, ADV, tracking, consenso, creatività e preflight controllato.",
+  "description": "Guardrails Paid Media: strategia paid media, Google Ads, ADV, tracking, consenso, creatività, immagini generate e preflight controllato.",
   "plugins": [
     {
       "name": "gpm",
       "source": "./src",
-      "description": "Sette figure di presidio su paid media, SEO, design, privacy, legale, social content e creative video, più `grl-ads` per audit, piani, tracking e preflight paid, `grl-social` per il contenuto organico, `grl-social-creative` per gli asset e `grl-automation` per i passaggi ripetitivi. Dalia tiene la spesa sotto controllo: nessuna campagna o creatività si pubblica senza evidenze, approvazione e rollback.",
+      "description": "Otto figure di presidio su paid media, SEO, design, privacy, legale, social content, creative video e generazione di immagini con modelli AI, più `grl-ads` per audit, piani, tracking e preflight paid, `grl-social` per il contenuto organico, `grl-social-creative` per gli asset e `grl-automation` per i passaggi ripetitivi. Dalia tiene la spesa sotto controllo: nessuna campagna o creatività si pubblica senza evidenze, approvazione e rollback.",
       "version": "1.25.0",
       "author": "mlarese",
       "homepage": "https://github.com/mlarese/bmad-module-guardrails-paid-media",
@@ -22,6 +22,7 @@
         "src/skills/grl-agent-ads",
         "src/skills/grl-agent-social",
         "src/skills/grl-agent-creative",
+        "src/skills/grl-agent-imaging",
         "src/skills/grl-ads",
         "src/skills/grl-social",
         "src/skills/grl-social-creative",

@@ -7,12 +7,12 @@
 
 code: gpm
 name: Guardrails Paid Media
-description: "Sette figure di presidio su paid media, SEO, design, privacy, legale, social content e creative video, più `grl-ads` per audit, piani, tracking e preflight paid, `grl-social` per il contenuto organico, `grl-social-creative` per gli asset e `grl-automation` per i passaggi ripetitivi. Dalia tiene la spesa sotto controllo: nessuna campagna o creatività si pubblica senza evidenze, approvazione e rollback."
+description: "Otto figure di presidio su paid media, SEO, design, privacy, legale, social content, creative video e generazione di immagini con modelli AI, più `grl-ads` per audit, piani, tracking e preflight paid, `grl-social` per il contenuto organico, `grl-social-creative` per gli asset e `grl-automation` per i passaggi ripetitivi. Dalia tiene la spesa sotto controllo: nessuna campagna o creatività si pubblica senza evidenze, approvazione e rollback."
 module_version: 1.25.0
 default_selected: false
 
 module_greeting: >
-  Guardrails Paid Media è installato: Vera (data protection officer), Aldo (tech lawyer), Iris (design critic), Nora (seo strategist & search systems auditor), Dalia (media manager & paid advertising strategist), Sofia (social media & content strategist) e Marco (advertising creative director & short-form video producer) entrano nel roster e si possono convocare per nome.
+  Guardrails Paid Media è installato: Vera (data protection officer), Aldo (tech lawyer), Iris (design critic), Nora (seo strategist & search systems auditor), Dalia (media manager & paid advertising strategist), Sofia (social media & content strategist), Marco (advertising creative director & short-form video producer) e Elio (ai image generation & post-production specialist) entrano nel roster e si possono convocare per nome.
 
   Passo successivo consigliato: esegui `gpm-profile`. Senza il profilo di progetto le figure partono cieche e parlano per luoghi comuni; con il profilo sanno cosa non ti riguarda, che è il loro output più utile.
 
@@ -102,3 +102,11 @@ agents:
     title: Advertising Creative Director & Short-form Video Producer
     icon: 🎬
     description: Trasforma brief in concept pubblicitari, design, script, storyboard, shot list e specifiche producibili per post, Reel, TikTok e Shorts, con gate espliciti su claim, diritti, privacy e approvazione.
+
+  - code: grl-agent-imaging
+    module: gpm
+    team: creative
+    name: Elio
+    title: AI Image Generation & Post-production Specialist
+    icon: 🖼️
+    description: Sceglie il modello immagine adatto al compito fra Nano Banana, Imagen, GPT Image e Photoshop, scrive il prompt che lo governa, genera i file su richiesta con dry-run e conferma, e distingue ciò che si chiede a un modello da ciò che va fatto in post-produzione, con gate su somiglianze, marchi, dati personali e provenienza.

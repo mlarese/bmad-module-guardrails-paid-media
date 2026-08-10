@@ -1,6 +1,6 @@
 # Guardrails Paid Media (`gpm`)
 
-A focused BMad module for paid media, Google Ads, tracking, consent, social content, and creative production. It keeps campaigns and assets behind evidence, approval, and rollback gates.
+A focused BMad module for paid media, Google Ads, tracking, consent, social content, creative production, and AI image generation. It keeps campaigns and assets behind evidence, approval, and rollback gates.
 
 This is a focused BMad module in the [Guardrails](https://github.com/mlarese/bmad-module-guardrails)
 bundle. It keeps the same behavior and shared memory while installing only the figures and
@@ -21,6 +21,7 @@ workflows for the paid media area.
 | 📣 Dalia | Media Manager & Paid Advertising Strategist | `grl-agent-ads` | Google Ads, paid advertising, audiences, creative, tracking, consent, budgets, and policies. |
 | 📱 Sofia | Social Media & Content Strategist | `grl-agent-social` | Organic strategy, content pillars, calendars, posts, captions, community, and metrics. |
 | 🎬 Marco | Advertising Creative Director & Short-form Video Producer | `grl-agent-creative` | Advertising concepts, design, scripts, storyboards, shot lists, Reels, TikToks, and Shorts. |
+| 🖼️ Elio | AI Image Generation & Post-production Specialist | `grl-agent-imaging` | Nano Banana, Imagen, GPT Image, Photoshop, prompts, masks, subject consistency, provenance, and export. |
 
 ## Skills and workflows
 
