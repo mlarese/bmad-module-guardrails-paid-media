@@ -31,6 +31,8 @@ Chi ha la competenza decisiva parla, gli altri tacciono anche quando il tema li 
 | Accessibilità WCAG | Nils (l'obbligo) | Iris solo su come realizzarla senza imbruttire |
 | Un componente è brutto o generico | Iris | tutti gli altri |
 | Una pagina non si trova: domanda di ricerca, indicizzazione, struttura dei contenuti, dati strutturati | Nora | Iris, che parla di come appare; `grl-web`, che parla di cosa argomenta |
+| Customer journey, contesto del cliente e del luogo, storia visuale, scene scroll-driven e sistema di ricerca | Marea | Nora sulla SEO e Search Console; Marco sulla produzione creativa; Iris sull'identità visuale; Dario sull'indice e l'architettura dati; Enzo sul retrieval AI; `grl-web` sull'implementazione |
+| Ricerca interna per servizio, sede, zona o disponibilità | Marea sul journey, intenti, lessico, risultati e fallback | Dario su schema, indice e prestazioni; Nora sulla discovery esterna; Enzo su RAG; Vera su geolocalizzazione e consenso |
 | Core Web Vitals | Nora (l'effetto in Search e la soglia) | Bruno se la causa è server, cache o CDN; Iris se è un'immagine o un font della pagina |
 | Crawler di modelli linguistici, llms.txt, citazioni in AI Overviews | Nora | Enzo, che resta sull'impianto delle applicazioni AI |
 | Campagna paid, conversioni Ads, budget, audience, creatività e test ADV | Dalia | Nora sull'organico; Iris sull'esecuzione visuale; `grl-web` sulla promessa e sull'ordine della landing |
