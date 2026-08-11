@@ -8,7 +8,7 @@
 code: gpm
 name: Guardrails Paid Media
 description: "Otto figure di presidio su paid media, SEO, design, privacy, legale, social content, creative video e generazione di immagini con modelli AI, più `grl-ads` per audit, piani, tracking e preflight paid, `grl-social` per il contenuto organico, `grl-social-creative` per gli asset e `grl-automation` per i passaggi ripetitivi. Dalia tiene la spesa sotto controllo: nessuna campagna o creatività si pubblica senza evidenze, approvazione e rollback."
-module_version: 1.36.0
+module_version: 1.36.1
 default_selected: false
 
 module_greeting: >
